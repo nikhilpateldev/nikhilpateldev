@@ -11,8 +11,6 @@ Currently focused on building high-performance applications using
 
 ## 🏅 Core Technology Badges
 
-## 🏅 Core Technology Stack (Primary Focus)
-
 ![.NET](https://img.shields.io/badge/.NET-Core-purple?style=for-the-badge&logo=dotnet)
 ![Angular](https://img.shields.io/badge/Angular-Frontend-red?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
