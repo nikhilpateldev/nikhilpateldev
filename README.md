@@ -5,7 +5,7 @@ Innovative **Full Stack & AI Solutions Engineer with 12+ years of experience** b
 **scalable, cloud-native, AI-powered enterprise systems**.
 
 Currently focused on building high-performance applications using  
-**.NET, Angular, and React** with enterprise-grade cloud and AI integration.
+**.NET, Python, Angular, and React** with enterprise-grade cloud and AI integration.
 
 ---
 
