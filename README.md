@@ -11,12 +11,84 @@ Currently focused on building high-performance applications using
 
 ## 🏅 Core Technology Badges
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure)
+## 🏅 Core Technology Stack (Primary Focus)
+
 ![.NET](https://img.shields.io/badge/.NET-Core-purple?style=for-the-badge&logo=dotnet)
 ![Angular](https://img.shields.io/badge/Angular-Frontend-red?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/Python-Backend-yellow?style=for-the-badge&logo=python)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-ML-yellow?style=for-the-badge&logo=openai)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure)
+
+---
+
+## 🏗️ Architecture, Backend & APIs
+
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-lightgrey?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-Design-blueviolet?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-Pattern-black?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-API-pink?style=for-the-badge&logo=graphql)
+![gRPC](https://img.shields.io/badge/gRPC-Protocol-blue?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-JS-green?style=for-the-badge&logo=node.js)
+
+---
+
+## 📡 Messaging & Real-Time Systems
+
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Messaging-orange?style=for-the-badge&logo=rabbitmq)
+![SignalR](https://img.shields.io/badge/SignalR-Realtime-blue?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-darkblue?style=for-the-badge)
+
+---
+
+## 🗄️ Databases & Storage
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?style=for-the-badge&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-Database-lightblue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-Cache-red?style=for-the-badge&logo=redis)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-NoSQL-blue?style=for-the-badge&logo=amazondynamodb)
+![Pinecone](https://img.shields.io/badge/Pinecone-VectorDB-purple?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-VectorDB-blueviolet?style=for-the-badge)
+
+---
+
+## 🤖 AI, ML & Data
+
+![Hugging Face](https://img.shields.io/badge/HuggingFace-NLP-yellow?style=for-the-badge&logo=huggingface)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?style=for-the-badge&logo=tensorflow)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-blue?style=for-the-badge&logo=scikitlearn)
+![NLP](https://img.shields.io/badge/NLP-TextAI-purple?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-VectorAI-darkgreen?style=for-the-badge)
+
+---
+
+## ☁️ DevOps, Cloud & Automation
+
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
+![Git](https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git)
+![GitLab](https://img.shields.io/badge/GitLab-CI/CD-orange?style=for-the-badge&logo=gitlab)
+![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-green?style=for-the-badge)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-AWS-orange?style=for-the-badge)
+
+---
+
+## 🧪 Testing, Automation & Low-Code
+
+![NUnit](https://img.shields.io/badge/NUnit-Testing-green?style=for-the-badge)
+![xUnit](https://img.shields.io/badge/xUnit-Testing-blue?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-Performance-red?style=for-the-badge&logo=apachejmeter)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-Automation-blue?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?style=for-the-badge&logo=powerbi)
+![Appian](https://img.shields.io/badge/Appian-Low--Code-darkblue?style=for-the-badge)
+![Mendix](https://img.shields.io/badge/Mendix-Low--Code-lightblue?style=for-the-badge)
+
 
 ---
 
