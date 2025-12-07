@@ -18,6 +18,13 @@ Currently focused on building high-performance applications using
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-ML-yellow?style=for-the-badge&logo=openai)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure)
+![SQL](https://img.shields.io/badge/SQL-Relational-red?style=for-the-badge&logo=postgresql)
+![NoSQL](https://img.shields.io/badge/NoSQL-Distributed-green?style=for-the-badge&logo=mongodb)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-AI%20Search-purple?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-NLP-yellow?style=for-the-badge&logo=huggingface)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-lightgrey?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
 
 ## 🧠 What I Bring to the Table
 
