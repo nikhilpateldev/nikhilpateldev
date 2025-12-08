@@ -52,9 +52,7 @@ Microservices | Micro Frontend | Event-Driven Architecture | Domain-Driven Desig
 GraphQL | REST | gRPC | WebSockets | SignalR | Kafka | RabbitMQ | AWS SQS/SNS | Azure Service Bus | API Gateway  
 
 ### 🔹 Databases  
-Structured (SQL Server, MySQL, PostgreSQL)  
-Unstructured (MongoDB, DynamoDB, Redis)  
-Vector (Pinecone, Weaviate)  
+Structured (SQL Server, MySQL, PostgreSQL) | Unstructured (MongoDB, DynamoDB, Redis) | Vector (Pinecone, Weaviate)  
 
 ### 🔹 AI & Data Skills  
 NLP | Sentiment Analysis | Hugging Face Transformers | Embeddings & Semantic Search | Recommendation Systems  
